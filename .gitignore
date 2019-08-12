@@ -1,0 +1,6 @@
+# ignore build directory
+build/
+
+# ignore clang-format and clang-tidy config files
+.clang-tidy
+.clang-format
